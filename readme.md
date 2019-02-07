@@ -13,7 +13,7 @@ We built a ERC721 wrapping contract to ease the transfer of ownership between us
 
 ## Development status
 Currently, we have the wrapping contract deployed on Kovan Testnet. 
-# Next steps :
+### Next steps :
 Audit the wrapping contract.
 Launch a dedicated relayer.
 
